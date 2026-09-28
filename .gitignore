@@ -2,3 +2,7 @@
 _shots/
 draft_*/
 *.log
+
+_doc_v2.xml
+_svc_page.html
+_dtest.py

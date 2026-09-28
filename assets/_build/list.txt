@@ -1,0 +1,6 @@
+file 'C:\Users\Administrator\DoubaoWork\chats\2026-09-28\new-chat\gaicai-game\assets\_build\seg1.mp4'
+file 'C:\Users\Administrator\DoubaoWork\chats\2026-09-28\new-chat\gaicai-game\assets\_build\seg2.mp4'
+file 'C:\Users\Administrator\DoubaoWork\chats\2026-09-28\new-chat\gaicai-game\assets\_build\seg3.mp4'
+file 'C:\Users\Administrator\DoubaoWork\chats\2026-09-28\new-chat\gaicai-game\assets\_build\seg4.mp4'
+file 'C:\Users\Administrator\DoubaoWork\chats\2026-09-28\new-chat\gaicai-game\assets\_build\seg5.mp4'
+file 'C:\Users\Administrator\DoubaoWork\chats\2026-09-28\new-chat\gaicai-game\assets\_build\seg6.mp4'
