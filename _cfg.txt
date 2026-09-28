@@ -1,0 +1,10 @@
+ruleset_id=YALE_FIN_R1_2026
+start_age=24 total_years=21 goal=3,000,000
+salary_start=8,000 salary_months=13 expense_start=4,500
+salary_growth_base=0.05 salary_growth_jitter=0.03 inflation=0.03
+insurance_monthly=300 kid_extra_monthly=2,500 step=10,000
+house_price_start=1,000,000 down_ratio=0.3 loan_rate=0.045 loan_pay_ratio=0.08
+market_script=flat,bull,bull,bear,flat,bear,flat,bull,bubble,crash,flat,bear,flat,bull,bull,bear,flat,bull,flat,bull,flat
+returns={"bull": {"cash": [0.005, 0.02], "bond": [0.02, 0.05], "stock": [0.18, 0.42], "hot": [0.25, 0.7], "crypto": [0.2, 1.0], "house": [0.04, 0.14]}, "bear": {"cash": [0.01, 0.03], "bond": [0.03, 0.06], "stock": [-0.38, -0.22], "hot": [-0.6, -0.4], "crypto": [-0.75, -0.45], "house": [-0.16, -0.05]}, "flat": {"cash": [0.005, 0.02], "bond": [0.02, 0.05], "stock": [-0.06, 0.12], "hot": [-0.25, 0.25], "crypto": [-0.3, 0.4], "house": [0.0, 0.08]}, "bubble": {"cash": [0.005, 0.015], "bond": [0.01, 0.03], "stock": [0.05, 0.18], "hot": [0.05, 0.2], "crypto": [0.1, 0.3], "house": [0.25, 0.5]}, "crash": {"cash": [0.01, 0.02], "bond": [0.03, 0.05], "stock": [-0.2, -0.1], "hot": [-0.35, -0.2], "crypto": [-0.5, -0.3], "house": [-0.38, -0.22]}}
+event_amounts={"fomo_hot": 50000, "fomo_stock": 50000, "wedding_big": 150000, "wedding_small": 50000, "panic_sell_rate": 0.95, "dip_invest": 20000, "insider_hot": 50000, "insider_try": 10000, "debt_borrow": 100000, "debt_pay": 120000, "relative_borrow": 50000, "relative_back": 10000, "relative_return_year": 2, "panic2_sell_rate": 0.97, "sick_cost": 250000, "sick_insured_pay": 50000, "lottery_cost": 200, "lottery_win": 50000, "lottery_p": 0.05, "side_income": 24000, "crypto_allin": 50000, "crypto_try": 10000, "crypto_crash_mult": 0.25, "parents_sick_cost": 100000, "raise1": 0.2, "raise2": 0.25, "unemployment_sell_ratio": 0.3, "unemployment_sell_rate": 0.97, "family_support": 30000}
+ending_thresholds=[{"min": 3000000, "title": "财务自由 · 巴菲特中国分巴"}, {"min": 1800000, "title": "富足退休 · 稳健老钱"}, {"min": 800000, "title": "普通打工人 · 稳稳的幸福"}, {"min": 0, "title": "月光族本族 · 消费主义战士"}, {"min": -999999999999, "title": "破产 · 纯纯大韭菜"}]

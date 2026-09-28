@@ -1,0 +1,38 @@
+EVENTS count=21
+yundefined [auto] 工资条到账
+yundefined [choice] 牛市来了！朋友圈都在晒收益 || 跟风追热点，投 5 万进热点股 (bad) || 分批定投 5 万指数基金 (good) || 按兵不动，继续攒钱 (neutral)
+yundefined [auto] 升职加薪！
+yundefined [choice] 黑天鹅来袭：金融危机 || 恐慌清仓，保住本金 (bad) || 按兵不动，坚持定投 (good) || 向亲戚借 10 万抄底！ (bad)
+yundefined [choice] 要结婚了 || 大操大办，花 15 万 (bad) || 简办，花 5 万 (good) || 裸婚领证，一分不花 (neutral)
+yundefined [choice] 公司裁员，你失业了 || 动用存款硬扛 (neutral) || 卖 30% 指数基金应急 (bad) || 找父母支援 3 万 (neutral)
+yundefined [choice] 要不要生娃？ || 生！ (neutral) || 先打拼几年再说 (neutral)
+yundefined [choice] “内幕消息”？ || 信了！重仓 5 万 (bad) || 无视，继续按计划 (good) || 小打小闹试 1 万 (bad)
+yundefined [choice] 楼市泡沫：房价暴涨！ || 加杠杆上车买房 (bad) || 观望，不追高 (good) || 趁机卖房套现 (neutral)
+yundefined [auto] 崩盘时刻：楼市腰斩 + 股灾
+yundefined [choice] 亲戚来借钱 || 借！都是亲戚 (bad) || 委婉拒绝 (good)
+yundefined [choice] 大熊市，账户又绿了 || 割肉清仓，再也不玩了 (bad) || 坚持定投，越跌越买 (good) || 躺平不动，不看账户 (neutral)
+yundefined [auto] 突发大病住院
+yundefined [choice] 彩票店 + 副业机会 || 花 200 块买张彩票 (bad) || 接个靠谱副业 (good) || 算了，好好休息 (neutral)
+yundefined [choice] 币圈狂欢：一夜暴富神话 || 梭哈 5 万进场 (bad) || 不碰，赚认知内的钱 (good) || 小额 1 万试试水 (neutral)
+yundefined [auto] 币圈崩盘：归零时刻
+yundefined [choice] 父母生病住院 || 出钱，倾力救治 (good) || 先保守治疗凑合 (bad)
+yundefined [auto] 央行降息
+yundefined [auto] 升职加薪！
+yundefined [auto] 慢牛收官
+yundefined [auto] 45 岁：年终盘点
+CARDS count=15
+c01 | 风险与收益 | 出自第 4 课 · 资产定价模型
+c02 | 分散投资 | 出自第 4 课 · 资产定价模型
+c03 | 羊群效应 | 出自第 7 课 · 行为金融学
+c04 | 有效市场 | 出自第 6 课 · 有效市场只是一半的真相
+c05 | 黑天鹅 | 出自第 2 课 · 在险价值、压力测试与黑天鹅
+c06 | 泡沫 | 出自第 1 课 · 金融市场简介
+c07 | 损失厌恶 | 出自第 7 课 · 行为金融学
+c08 | 杠杆 | 出自第 8 课 · 利率、通胀与杠杆
+c09 | 生命周期 | 出自第 1 课 · 金融市场简介
+c10 | 人力资本 | 出自第 1 课 · 金融市场简介
+c11 | 保险 | 出自第 3 课 · 金融市场之保险
+c12 | 投机 vs 投资 | 出自第 1 课 · 金融市场简介
+c13 | 郁金香泡沫 | 出自第 7 课 · 行为金融学
+c14 | 应急金与流动性 | 出自第 1 课 · 金融市场简介
+c15 | 利率与通胀 | 出自第 8 课 · 利率、通胀、真实利率
